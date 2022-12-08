@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebee6848-0679-4d8d-b6d9-3906bb6745c4" name="Changes" comment="Injection from file">
+    <list default="true" id="ebee6848-0679-4d8d-b6d9-3906bb6745c4" name="Changes" comment="Annotation DI">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MusicPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/RockMusic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/TestSpring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,8 @@
       <workItem from="1670433065368" duration="363000" />
       <workItem from="1670435709437" duration="31000" />
       <workItem from="1670435802690" duration="1560000" />
-      <workItem from="1670441231991" duration="498000" />
+      <workItem from="1670441231991" duration="1342000" />
+      <workItem from="1670525566817" duration="3066000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1670347427508</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670365961186</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Annotation DI">
+      <created>1670441971827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670441971827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Inversion of Control &amp; Dependency Injection Update" />
     <MESSAGE value="Injection from file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Injection from file" />
+    <MESSAGE value="Annotation DI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Annotation DI" />
   </component>
 </project>
